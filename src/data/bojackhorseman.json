@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Todd Chavez",
+      "species": "Human",
+      "voiced_by": "Aaron Paul",
+      "occupation": "",
+      "image": "http://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/todd-bojack-horseman-6.44.jpg",
+      "quotes": ["Yay! A task!", "Fool me once, fool me twice, fool me chicken soup with rice", "Sometimes I just feel like my whole life is just a series of loosely related, wacky misadventures...", "Can we return to the surface? All my favorite clouds are up there."]
+    },
+    {
+      "name": "Bojack Horseman",
+      "species": "Horse",
+      "voiced_by": "Will Arnett",
+      "occupation": "Actor; Owner of the Restaurant Elephante",
+      "image": "http://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/bojack-bojack-horseman-7.97.jpg",
+      "quotes": ["Y'know, sometimes I feel like I was born with a leak, and any goodness I started with just slowly spilled out of me, and now it's all gone and I'll never get it back in me. It's too late.", "Life is a series of closing doors, isn't it?", "CAN WE PLEASE GET SOME ALCOHOL INTO MY MOUTH?!"]
+    },
+    {
+      "name": "Princess Carolyn",
+      "species": "Persian cat",
+      "voiced_by": "Amy Sedaris",
+      "occupation": "Manager",
+      "image": "http://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/carolyn-bojack-horseman-1.93.jpg",
+      "quotes": ["My life is a mess right now and I compulsively take care of other people when I don't know how to take care of myself.", "Aw, fish!", "Stop pissing off the orphans. A lot of them grow up to be serial killers."]
+    },
+    {
+      "name": "Diane Nguyen",
+      "species": "Human",
+      "voiced_by": "Alison Brie",
+      "occupation": "Writer",
+      "image": "http://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/diane-bojack-horseman-23.2.jpg",
+      "quotes": ["That’s the thing. I don’t think I believe in deep down. I kind of think all you are is just the things that you do."]
+    },
+    {
+      "name": "Mr. Peanutbutter",
+      "species": "Dog",
+      "voiced_by": "Paul F. Tompkins",
+      "occupation": "Actor/Entrepreneur/TV show host",
+      "image": "http://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/mr-peanutbutter-bojack-horseman-72.4.jpg",
+      "quotes": ["The universe is a cruel, uncaring void. The key to being happy isn't a search for meaning. It's to just keep yourself busy with unimportant nonsense, and eventually, you'll be dead."]
+    },
+    {
+      "name": "Pig Doctor",
+      "species": "Pig",
+      "voiced_by": "Patton Oswalt",
+      "occupation": "Doctor",
+      "image": "http://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/pig-doctor-bojack-horseman-66.4.jpg",
+      "quotes": []
+    },
+    {
+      "name": "Neal McBeal",
+      "species": "Seal",
+      "voiced_by": "Patton Oswalt",
+      "occupation": "Navy SEAL",
+      "image": "http://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/neal-mcbeal-bojack-horseman-7.24.jpg",
+      "quotes": []
+    },
+    {
+      "name": "Ralph Stilton",
+      "species": "Mouse",
+      "voiced_by": "Raúl Esparza",
+      "occupation": "Greeting Card Company Owner",
+      "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/2/2c/Tumblr_oaq9zfEicO1qm3jeqo1_1280.jpg/revision/latest?cb=20170217233945",
+      "quotes": []
+    },
+    {
+      "name": "Jogging Baboon",
+      "species": "Baboon",
+      "voiced_by": "Jason Beghe",
+      "occupation": "Jogging",
+      "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/8/8a/1-WpIfVAWubr4otygEo0arvg.jpeg/revision/latest/scale-to-width-down/310?cb=20160829193409%201x,%20https://vignette.wikia.nocookie.net/bojackhorseman/images/8/8a/1-WpIfVAWubr4otygEo0arvg.jpeg/revision/latest/scale-to-width-down/620?cb=20160829193409%202x",
+      "quotes": ["It gets easier... Every day it gets a little easier... But you gotta do it every day — that’s the hard part. But it does get easier."]
+    }
+  ]
+}
