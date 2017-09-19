@@ -11,12 +11,13 @@ import {
   Text,
   View,
 } from 'react-native';
+import CharacterList from './src/components/CharacterList';
 
 class bojacknative extends React.PureComponent {
   render() {
     return (
       <View>
-        <Text>Hello world</Text>
+        <CharacterList />
       </View>
     );
   }
