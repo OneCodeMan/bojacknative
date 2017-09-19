@@ -1,4 +1,5 @@
-import React, { Component } from 'react';
+// carousel
+import React from 'react';
 import { Text, View } from 'react-native';
 
 const Quotes = () => {
