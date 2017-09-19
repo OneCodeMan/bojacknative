@@ -4,15 +4,15 @@
  * @flow
  */
 
-import React, { Component } from 'react';
+import React from 'react';
 import {
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  View,
 } from 'react-native';
 
-export default class bojacknative extends Component {
+class bojacknative extends React.PureComponent {
   render() {
     return (
       <View>
@@ -22,5 +22,7 @@ export default class bojacknative extends Component {
   }
 }
 
+
+export default bojacknative;
 
 AppRegistry.registerComponent('bojacknative', () => bojacknative);
