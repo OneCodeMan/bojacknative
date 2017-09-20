@@ -1,11 +1,11 @@
 // Scrollview
 import React, { Component } from 'react';
-import { Text, View } from 'react-native';
+import { Text, View, ScrollView } from 'react-native';
 import Character from './Character';
 import appData from '../data/bojackhorseman.json';
 
 const CharacterList = () => (
-  <View>
+  <ScrollView>
     {appData.characters.map((character, index) => {
       return (
         <View key={index}>
@@ -13,7 +13,7 @@ const CharacterList = () => (
         </View>
       );
     })}
-  </View>
+  </ScrollView>
 );
 
 export default CharacterList;

@@ -1,11 +1,15 @@
 // Card
-import React, { Component } from 'react';
-import { Text, View } from 'react-native';
+import React from 'react';
+import { Text, View, Image } from 'react-native';
 
-const Card = ({image, name, voicedBy, occupation}) => (
+const Card = ({ image, name, voicedBy, occupation }) => (
   <View>
-    <Text>{image}</Text>
+    <View stye={{ justifyContent: 'center', alignItems: 'center' }}>
+      <Image style={{width: 250, height: 250}} source={{ uri: image }} />
+    </View>
     <Text>{name} - Voiced by: {voicedBy}</Text>
     <Text>{occupation}</Text>
   </View>
 );
+
+export default Card;
