@@ -4,16 +4,26 @@ import { Text, View, ScrollView } from 'react-native';
 import Character from './Character';
 import appData from '../data/bojackhorseman.json';
 
-const CharacterList = () => (
-  <ScrollView>
-    {appData.characters.map((character, index) => {
-      return (
-        <View key={index}>
-          <Character character={character} />
-        </View>
-      );
-    })}
-  </ScrollView>
-);
+const CharacterList = () => {
+  const { scrollViewStyle } = styles;
+
+  return (
+    <ScrollView style={ scrollViewStyle }>
+      {appData.characters.map((character, index) => {
+        return (
+          <View key={index}>
+            <Character character={character} />
+          </View>
+        );
+      })}
+    </ScrollView>
+  );
+}
+
+const styles = {
+  scrollViewStyle: {
+    padding: 20
+  }
+};
 
 export default CharacterList;

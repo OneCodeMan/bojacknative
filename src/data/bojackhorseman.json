@@ -4,9 +4,9 @@
       "name": "Bojack Horseman",
       "species": "Horse",
       "voiced_by": "Will Arnett",
-      "occupation": "Actor; Owner of the Restaurant Elephante",
+      "occupation": "Actor, Owner of the Restaurant Elephante",
       "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/c/c2/Bojack_Horsin_Around.jpeg/revision/latest?cb=20170703064223",
-      "quotes": ["Y'know, sometimes I feel like I was born with a leak, and any goodness I started with just slowly spilled out of me, and now it's all gone and I'll never get it back in me. It's too late.", "Life is a series of closing doors, isn't it?", "CAN WE PLEASE GET SOME ALCOHOL INTO MY MOUTH?!"]
+      "quotes": "Y'know, sometimes I feel like I was born with a leak, and any goodness I started with just slowly spilled out of me, and now it's all gone and I'll never get it back in me. It's too late."
     },
     {
       "name": "Todd Chavez",
@@ -14,7 +14,7 @@
       "voiced_by": "Aaron Paul",
       "occupation": "",
       "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/0/05/Todd.jpg/revision/latest?cb=20140826055025",
-      "quotes": ["Yay! A task!", "Fool me once, fool me twice, fool me chicken soup with rice", "Sometimes I just feel like my whole life is just a series of loosely related, wacky misadventures...", "Can we return to the surface? All my favorite clouds are up there."]
+      "quotes": "Yay! A task!"
     },
     {
       "name": "Princess Carolyn",
@@ -22,7 +22,7 @@
       "voiced_by": "Amy Sedaris",
       "occupation": "Manager",
       "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/8/8e/Princess_Carolyn.jpeg/revision/latest?cb=20170812195257",
-      "quotes": ["My life is a mess right now and I compulsively take care of other people when I don't know how to take care of myself.", "Aw, fish!", "Stop pissing off the orphans. A lot of them grow up to be serial killers."]
+      "quotes": "My life is a mess right now and I compulsively take care of other people when I don't know how to take care of myself."
     },
     {
       "name": "Diane Nguyen",
@@ -30,7 +30,7 @@
       "voiced_by": "Alison Brie",
       "occupation": "Writer",
       "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/e/ea/Diane_Nguyen.jpg/revision/latest?cb=20140826055725",
-      "quotes": ["That’s the thing. I don’t think I believe in deep down. I kind of think all you are is just the things that you do."]
+      "quotes": "That’s the thing. I don’t think I believe in deep down. I kind of think all you are is just the things that you do."
     },
     {
       "name": "Mr. Peanutbutter",
@@ -38,7 +38,7 @@
       "voiced_by": "Paul F. Tompkins",
       "occupation": "Actor/Entrepreneur/TV show host",
       "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/d/d0/Mr_peanut_butter.JPG/revision/latest/scale-to-width-down/620?cb=20140826220021",
-      "quotes": ["The universe is a cruel, uncaring void. The key to being happy isn't a search for meaning. It's to just keep yourself busy with unimportant nonsense, and eventually, you'll be dead."]
+      "quotes": "The universe is a cruel, uncaring void. The key to being happy isn't a search for meaning. It's to just keep yourself busy with unimportant nonsense, and eventually, you'll be dead."
     },
     {
       "name": "Pig Doctor",
@@ -46,7 +46,7 @@
       "voiced_by": "Patton Oswalt",
       "occupation": "Doctor",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Gl_9N8HYaDbxL7PSdk1MzQkrjUlPWuSS4EbWPhvRVOkYuoKr0A",
-      "quotes": []
+      "quotes": ""
     },
     {
       "name": "Neal McBeal",
@@ -54,7 +54,7 @@
       "voiced_by": "Patton Oswalt",
       "occupation": "Navy SEAL",
       "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/c/c9/Neal_McBeal.jpg/revision/latest?cb=20150828201452",
-      "quotes": []
+      "quotes": ""
     },
     {
       "name": "Ralph Stilton",
@@ -62,7 +62,7 @@
       "voiced_by": "Raúl Esparza",
       "occupation": "Greeting Card Company Owner",
       "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/2/2c/Tumblr_oaq9zfEicO1qm3jeqo1_1280.jpg/revision/latest?cb=20170217233945",
-      "quotes": []
+      "quotes": ""
     },
     {
       "name": "Jogging Baboon",
@@ -70,7 +70,7 @@
       "voiced_by": "Jason Beghe",
       "occupation": "Jogging",
       "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/8/8a/1-WpIfVAWubr4otygEo0arvg.jpeg/revision/latest/scale-to-width-down/310?cb=20160829193409%201x,%20https://vignette.wikia.nocookie.net/bojackhorseman/images/8/8a/1-WpIfVAWubr4otygEo0arvg.jpeg/revision/latest/scale-to-width-down/620?cb=20160829193409%202x",
-      "quotes": ["It gets easier... Every day it gets a little easier... But you gotta do it every day — that’s the hard part. But it does get easier."]
+      "quotes": "It gets easier... Every day it gets a little easier... But you gotta do it every day — that’s the hard part. But it does get easier."
     }
   ]
 }

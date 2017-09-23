@@ -9,14 +9,17 @@ import {
   AppRegistry,
   StyleSheet,
   Text,
+  ScrollView,
   View,
 } from 'react-native';
 import CharacterList from './src/components/CharacterList';
+import Intro from './src/components/Intro';
 
 class bojacknative extends React.PureComponent {
   render() {
     return (
       <View>
+        <Intro />
         <CharacterList />
       </View>
     );
