@@ -22,7 +22,7 @@ const CharacterList = () => {
 
 const styles = {
   scrollViewStyle: {
-    padding: 20
+    marginBottom: 60
   }
 };
 

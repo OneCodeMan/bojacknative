@@ -31,7 +31,7 @@ const styles = {
   },
   voiceActorText: {
     fontStyle: 'italic',
-    fontSize: 17
+    fontSize: 15
   }
 
 };
